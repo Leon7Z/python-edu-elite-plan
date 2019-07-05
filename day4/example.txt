@@ -1,0 +1,3 @@
+linux-node1.example.com 192.168.56.11
+linux-node2.example.com 192.168.56.12
+linux-node3.example.com 192.168.56.13
